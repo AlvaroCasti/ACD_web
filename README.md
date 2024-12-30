@@ -12,3 +12,4 @@ This is the repository of my web page.
 - Added the code for the contact.html, that is a new html. I change the link.
 - Added the code for the net.html, that is a new html. I change the link, because we have to connect for the index and this is a long process. Happen the same with the html that are in the public.
 - Added the code for the degree.html, that is connect with other pages.
+- Added the code for the topic.html, that is connect with other pages.
