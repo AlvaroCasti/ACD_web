@@ -14,3 +14,4 @@ This is the repository of my web page.
 - Added the code for the degree.html, that is connect with other pages.
 - Added the code for the topic.html, that is connect with other pages.
 - Added more information in the CSS folder for the topic.html.
+- Added the code for the contact to have all the places to put your information.
