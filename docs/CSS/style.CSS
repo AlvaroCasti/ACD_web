@@ -8,7 +8,6 @@
 body {
     height: 800px;
     background-color: #EAE7DD ;
-    border-bottom: 4px inset black;
     border-left: 4px inset black;
     border-right: 4px inset black;
     font-family: Arial, sans-serif
@@ -72,3 +71,71 @@ header{
     color: white;
 }
 
+.pagina_F1{
+    text-align: center;
+    margin-left: 0.5cm;
+    margin-right: 0.5cm;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.presentacionF1{
+    margin-left: 0.5cm;
+    margin-right: 0.5cm;
+    text-align: justify;
+    font-size: 16px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.Pilotos_y_equipos{
+    text-align: center;
+    margin-left: 0.5cm;
+    margin-right: 0.5cm;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.pilotos_equipos{
+    margin-left: 0.5cm;
+    margin-right: 0.5cm;
+    text-align: justify;
+    font-size: 16px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.Calendario_2025{
+    text-align: center;
+    margin-left: 0.5cm;
+    margin-right: 0.5cm;
+    font-size: 20px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.calendario_confoto{
+    margin-left: 0.5cm;
+    margin-right: 0.5cm;
+    text-align: justify;
+    font-size: 16px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.calendario_confoto-1{
+    width: 100%;
+    border-radius: 8px;
+    margin-top: 0.5px;
+}
+
+.contacto{
+    text-align: center;
+    margin-left: 0.5cm;
+    margin-right: 0.5cm;
+    font-size: 24px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.contacto-1{
+    text-align: center;
+    margin-left: 0.5cm;
+    margin-right: 0.5cm;
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
