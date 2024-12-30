@@ -9,3 +9,4 @@ This is the repository of my web page.
 - Added the CSS for the main page. I put in CSS folder.
 - Added the code for the about.html with html. I change the link.
 - Added in the CSS folder a new code for put white the link in the about.html.
+- Added the code for the contact.html, that is a new html. I change the link.
