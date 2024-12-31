@@ -1,0 +1,11 @@
+Mi trabajo se trata de un página web sobre mi. Lo he dividido en diferentes apartados.
+Primero podemos ver el inicio donde explico un poco la página web y que aparece en cada apartado.
+En la segunda tenemos sobre mi. Básicamenete mediante un breve texto explico un poco de mi, mis gustos, etc. Además añado un curriculum y dos enlaces a las redes sociales. He usado las de mi universidad y el curriculum es de una persona inventada al igual que el número de teléfono y el correo electrónico.
+En la tercera tenemos contacto que básicamente sirve para que el usuario introduzca sus datos y de esa forma me puede comunicar con él.
+En la cuarta está la sección de red donde introduzco 4 páginas webs de compañeros míos en los que pulsando el recuadro ya te dirige a la página web de cada uno.
+En la quinta hablo de mi grado. Pongo todas las materias cursadas para que sea muy esquemático y aquel que esté interesado pueda ver las asignaturas y una breve descripción de cada una. Además hay un enlace a otra página donde detallo más información de Fundamentes de Ingeniería Informática. En ella menciono los objetivos, los ccontenidos y los reusltados de aprendizaje.
+En la sexta y última parte hablo de la fórmula 1 ya que es un deporte que me gusta mucho, y como era tema libre me parecía interesante. He querido agregar un enlace al apartado sobre mi para asegurarme que pasan por él. Además hay enlaces a dos páginas webs y a una imagen de un calendario de F1.
+
+He tenido dificultades al principio con git, ya que me resultaba difícil pooder actualizarlo debido a que tenía que enterarme más de donde estaba. Lo he podido resolver "picando" código y lo he entendido a la perfección. Respecto a la página web se me ha dificultado a veces algunos comandos, pero al final he dado con ellos. 
+
+Me ha gustado mucho hacer este trabajo y estoy orgulloso con el resultado. Hay que ser ambicioso y siempre querer más pero como comienzo está muy bien. Me ha gustado enfrentarme a las dificultades y creo que el resultado final es bueno y satisfactorio de ver.
