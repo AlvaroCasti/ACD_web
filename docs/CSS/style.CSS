@@ -139,3 +139,48 @@ header{
     font-size: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
+
+.presentacion_enlace{
+    text-align: center;
+    font-size: 24px;
+}
+
+.personas_enlace-1{
+    background-color: #99775C;
+    text-align: center;
+    margin-left: 10cm;
+    margin-right: 10cm;
+    border-style: solid;
+    border-width: 5px 5px 5px 5px;
+    
+}
+
+.personas_enlace-2{
+    background-color: #99775C;
+    text-align: center;
+    margin-left: 10cm;
+    margin-right: 10cm;
+    border-style: solid;
+    border-width: 5px 5px 5px 5px;
+    
+}
+
+.personas_enlace-3{
+    background-color: #99775C;
+    text-align: center;
+    margin-left: 10cm;
+    margin-right: 10cm;
+    border-style: solid;
+    border-width: 5px 5px 5px 5px;
+    
+}
+
+.personas_enlace-4{
+    background-color: #99775C;
+    text-align: center;
+    margin-left: 10cm;
+    margin-right: 10cm;
+    border-style: solid;
+    border-width: 5px 5px 5px 5px;
+    
+}
