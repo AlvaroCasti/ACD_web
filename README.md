@@ -20,3 +20,5 @@ This is the repository of my web page.
 - Added the information in the degree.html.
 - Added the file fii.html for the subjetc.
 - Added the rest of the informatio appear in the fii.html.
+- Added the photo of the Curriculum in the about.html.
+- Added the code in the CSS for the curriculum photo.
