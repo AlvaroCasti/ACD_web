@@ -184,3 +184,141 @@ header{
     border-width: 5px 5px 5px 5px;
     
 }
+
+.titulo_grado{
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.primer_año{
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.primer_cuatri{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.primer_cuatri_a{
+    background-color: #99775C;
+    color: black;
+    text-align: justify;
+    font-size: 16px;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px 5px 5px 5px;
+}
+
+.segundo_cuatri{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.segundo_cuatri_a{
+    background-color: #99775C;
+    color: black;
+    text-align: justify;
+    font-size: 16px;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px 5px 5px 5px;
+}
+
+
+.segundo_año{
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.primer_cuatri-2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.primer_cuatri_a-2{
+    background-color: #99775C;
+    color: black;
+    text-align: justify;
+    font-size: 16px;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px 5px 5px 5px;
+}
+
+.segundo_cuatri-2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.segundo_cuatri_a-2{
+    background-color: #99775C;
+    color: black;
+    text-align: justify;
+    font-size: 16px;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px 5px 5px 5px;
+}
+
+.tercer_año{
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.primer_cuatri-3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.primer_cuatri_a-3{
+    background-color: #99775C;
+    color: black;
+    text-align: justify;
+    font-size: 16px;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px 5px 5px 5px;
+}
+
+.segundo_cuatri-3{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.segundo_cuatri_a-3{
+    background-color: #99775C;
+    color: black;
+    text-align: justify;
+    font-size: 16px;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px 5px 5px 5px;
+}
+
+.cuarto_año{
+    font-size: 22px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+.primer_cuatri-4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.primer_cuatri_a-4{
+    background-color: #99775C;
+    color: black;
+    text-align: justify;
+    font-size: 16px;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px 5px 5px 5px;
+}
+
+.segundo_cuatri-4{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.segundo_cuatri_a-4{
+    background-color: #99775C;
+    color: black;
+    text-align: justify;
+    font-size: 16px;
+    border-color: black;
+    border-style: solid;
+    border-width: 5px 5px 5px 5px;
+}
