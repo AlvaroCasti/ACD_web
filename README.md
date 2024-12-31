@@ -19,3 +19,4 @@ This is the repository of my web page.
 - Added the code for the degree in the CSS.
 - Added the information in the degree.html.
 - Added the file fii.html for the subjetc.
+- Added the rest of the informatio appear in the fii.html.
